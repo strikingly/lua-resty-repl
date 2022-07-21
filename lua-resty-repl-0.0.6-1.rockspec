@@ -1,7 +1,7 @@
 package = 'lua-resty-repl'
 version = '0.0.6-1'
 source = {
-  url = 'https://github.com/strikingly/lua-resty-repl',
+  url = 'git+https://github.com/strikingly/lua-resty-repl.git',
   tag = 'v0.0.6-1'
 }
 description = {
